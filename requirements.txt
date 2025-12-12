@@ -1,0 +1,8 @@
+scipy
+tensorflow
+pandas
+numpy
+plotly
+streamlit
+pyspark
+sklearn
