@@ -1,4 +1,4 @@
-# 🔍 Intelligent Network Anomaly Detection & Auto-Remediation System
+# Intelligent Network Anomaly Detection & Auto-Remediation System
 
 An end-to-end AI/ML-powered network diagnostics platform combining classical machine learning, deep learning, reinforcement learning, and agentic AI to detect, diagnose, and remediate network issues in real-time.
 
