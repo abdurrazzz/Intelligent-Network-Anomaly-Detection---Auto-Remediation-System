@@ -4,7 +4,7 @@ An end-to-end AI/ML-powered network diagnostics platform combining classical mac
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This system demonstrates enterprise-grade network monitoring capabilities using cutting-edge AI/ML techniques. It processes network telemetry data from routers, switches, and wireless access points to identify anomalies, classify root causes, predict future issues, optimize traffic routing, and automatically generate remediation plans.
 
@@ -12,7 +12,7 @@ This system demonstrates enterprise-grade network monitoring capabilities using 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. **Real-Time Anomaly Detection**
 - **Isolation Forest** algorithm detecting network anomalies with 89% accuracy
@@ -61,7 +61,7 @@ This system demonstrates enterprise-grade network monitoring capabilities using 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -105,7 +105,7 @@ This system demonstrates enterprise-grade network monitoring capabilities using 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -148,7 +148,7 @@ Open browser to: http://localhost:8501
 
 ---
 
-## 📊 Usage Guide
+## Usage Guide
 
 ### Mode 1: Real-Time Monitoring
 Monitor live network health with interactive visualizations:
@@ -200,7 +200,7 @@ Simulate distributed data processing:
 
 ---
 
-## 🔬 Technical Implementation
+## Technical Implementation
 
 ### Machine Learning Models
 
@@ -258,7 +258,7 @@ Hyperparameters:
 
 ---
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 | Model | Metric | Score |
 |-------|--------|-------|
@@ -271,44 +271,44 @@ Hyperparameters:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates proficiency in:
 
 ### Machine Learning
-- ✅ Unsupervised learning (Isolation Forest)
-- ✅ Supervised classification (Random Forest)
-- ✅ Feature engineering for time-series data
-- ✅ Model evaluation and hyperparameter tuning
-- ✅ Online/incremental learning concepts
+- Unsupervised learning (Isolation Forest)
+- Supervised classification (Random Forest)
+- Feature engineering for time-series data
+- Model evaluation and hyperparameter tuning
+- Online/incremental learning concepts
 
 ### Deep Learning
-- ✅ LSTM architecture for sequence modeling
-- ✅ Time-series forecasting
-- ✅ TensorFlow/Keras implementation
-- ✅ Training optimization and validation
+- LSTM architecture for sequence modeling
+- Time-series forecasting
+- TensorFlow/Keras implementation
+- Training optimization and validation
 
 ### Reinforcement Learning
-- ✅ Q-Learning algorithm
-- ✅ Environment design (MDP formulation)
-- ✅ Policy learning and optimization
-- ✅ Exploration vs exploitation tradeoffs
+- Q-Learning algorithm
+- Environment design (MDP formulation)
+- Policy learning and optimization
+- Exploration vs exploitation tradeoffs
 
 ### Big Data Engineering
-- ✅ Distributed computing concepts (PySpark)
-- ✅ Window functions and aggregations
-- ✅ Data pipeline design
-- ✅ Scalability considerations
+- Distributed computing concepts (PySpark)
+- Window functions and aggregations
+- Data pipeline design
+- Scalability considerations
 
 ### AI Systems Design
-- ✅ Multi-agent architecture
-- ✅ Agentic reasoning workflows
-- ✅ Automated decision-making
-- ✅ Human-in-the-loop considerations
+- Multi-agent architecture
+- Agentic reasoning workflows
+- Automated decision-making
+- Human-in-the-loop considerations
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Network Topology
 Modify devices in `generate_network_data()`:
@@ -333,7 +333,7 @@ Tune in respective training functions:
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ### Anomaly Detection Dashboard
 ```
@@ -366,7 +366,7 @@ Improvement: 23.1%
 
 ---
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 ### Short Term
 - [ ] Add transformer models for sequence-to-sequence prediction
@@ -388,7 +388,7 @@ Improvement: 23.1%
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -400,13 +400,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by enterprise network monitoring solutions (Datadog, New Relic, Splunk)
 - LSTM architecture based on research in time-series forecasting
@@ -415,7 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 References
+## References
 
 1. Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). Isolation forest. *ICDM*.
 2. Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. *Neural computation*.
